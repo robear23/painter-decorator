@@ -21,8 +21,8 @@ export default function Hero() {
           className="object-cover"
         />
         {/* Layered overlays for depth */}
-        <div className="absolute inset-0 bg-gradient-to-b from-slate-950/85 via-slate-950/50 to-slate-950/95" />
-        <div className="absolute inset-0 bg-gradient-to-r from-slate-950/60 via-transparent to-slate-950/60" />
+        <div className="absolute inset-0 bg-gradient-to-b from-slate-950/55 via-slate-950/25 to-slate-950/70" />
+        <div className="absolute inset-0 bg-gradient-to-r from-slate-950/35 via-transparent to-slate-950/35" />
         {/* Subtle gold tint at bottom */}
         <div className="absolute bottom-0 left-0 right-0 h-48 bg-gradient-to-t from-amber-950/20 to-transparent" />
       </div>
